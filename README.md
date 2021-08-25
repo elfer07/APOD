@@ -9,6 +9,9 @@ Application with a clean architecture this built with
  - Navigation Components
  - ViewBinding
   
+ # Support
+ You need create a API key from https://api.nasa.gov/
+ 
  # Architecture
  
 ![Screenshot](images/finalarchitecture.png) 
