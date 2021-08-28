@@ -6,7 +6,6 @@ Application with a clean architecture this built with
  - StateFlow
  - Coroutines
  - Retrofit
- - Navigation Components
  - ViewBinding
   
  # Support
